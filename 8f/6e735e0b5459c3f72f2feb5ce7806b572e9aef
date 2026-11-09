@@ -1,0 +1,29 @@
+.claude-plugin/marketplace.json
+  s_93999829343301::t_7df736e6dbea86 13-14
+README.md
+  s_93999829343301::t_51e19a9eafbbe2 8,26
+quota-pet/.claude-plugin/plugin.json
+  s_93999829343301::t_ca8ce4120213fb 2
+quota-pet/hooks/register.tsx
+  s_93999829343301::t_dc709e559b2945 17-19
+quota-pet/tests/quota-pet.test.ts
+  s_93999829343301::t_ecfa50d132157d 94,109,149
+quota-pet/types/index.d.ts
+  s_93999829343301::t_1009ad42883f83 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8f6e735e0b5459c3f72f2feb5ce7806b572e9aef",
+  "prompts": {},
+  "sessions": {
+    "s_93999829343301": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "12c00cb0-561a-4939-a49c-b78a3e1e7ab2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Florian Paindorge <florian.paindorge@lengow.com>"
+    }
+  }
+}

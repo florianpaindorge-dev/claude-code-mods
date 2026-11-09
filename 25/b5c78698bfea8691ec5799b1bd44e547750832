@@ -1,0 +1,38 @@
+quotachu/hooks/quota.ts
+  s_069fec9782dc6c::t_4fccafc6c5d337 97,101-102
+  s_069fec9782dc6c::t_ccf1d614f6693c 1-96,98-100,103-128
+quotachu/tests/quotachu.test.ts
+  s_069fec9782dc6c::t_36c4d82d0fdf89 41-43
+  s_069fec9782dc6c::t_94ea8979886c5a 98
+  s_069fec9782dc6c::t_e8b8a4e576eecb 1-40,44-97,99-157
+quotachu/hooks/register.tsx
+  s_069fec9782dc6c::t_208cc4db9c9e9f 1-112
+.claude-plugin/marketplace.json
+  s_069fec9782dc6c::t_7002581425c281 3,12-15
+README.md
+  s_069fec9782dc6c::t_b20b9c1c27f758 3,8,26,82-119
+quotachu/.claude-plugin/plugin.json
+  s_069fec9782dc6c::t_e2c0414a622e1c 1-10
+quotachu/hooks/hooks.json
+  s_069fec9782dc6c::t_1b2797d416aa22 1
+quotachu/types/index.d.ts
+  s_069fec9782dc6c::t_39287d888789de 1-7
+quotachu/tsconfig.json
+  s_069fec9782dc6c::t_fc6f25769506b9 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25b5c78698bfea8691ec5799b1bd44e547750832",
+  "prompts": {},
+  "sessions": {
+    "s_069fec9782dc6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ca02658-b582-4c90-9006-0c1b9accf428",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Florian Paindorge <florian.paindorge@lengow.com>"
+    }
+  }
+}

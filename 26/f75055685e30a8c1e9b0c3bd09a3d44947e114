@@ -1,0 +1,25 @@
+context-pet/.claude-plugin/plugin.json
+  s_8fe517327eebae::t_215409b865c270 3
+context-pet/hooks/register.tsx
+  s_8fe517327eebae::t_0d2fad25d9f41b 101
+quota-pet/.claude-plugin/plugin.json
+  s_8fe517327eebae::t_1bd307b8620827 3
+quota-pet/hooks/register.tsx
+  s_8fe517327eebae::t_6268389a7dbbab 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "26f75055685e30a8c1e9b0c3bd09a3d44947e114",
+  "prompts": {},
+  "sessions": {
+    "s_8fe517327eebae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "68307905-fe4b-4565-a9c2-1b2b8254404f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Florian Paindorge <florian.paindorge@lengow.com>"
+    }
+  }
+}
